@@ -1,1 +1,1 @@
-https://0090f157c485.ngrok-free.app/add_to_queue?song_name=
+https://52f190b8c6e4.ngrok-free.app/add_to_queue?song_name=
