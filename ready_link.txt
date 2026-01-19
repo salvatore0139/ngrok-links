@@ -1,1 +1,1 @@
-https://a91333f77067.ngrok-free.app/add_to_queue?song_name=
+https://b225625adfa1.ngrok-free.app/add_to_queue?song_name=
