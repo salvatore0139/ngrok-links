@@ -1,1 +1,1 @@
-https://ebbd-87-17-15-141.ngrok-free.app/add_to_queue?song_name=
+https://2e6a-79-46-146-16.ngrok-free.app/add_to_queue?song_name=
