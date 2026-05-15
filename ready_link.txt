@@ -1,1 +1,1 @@
-https://0603-79-37-52-25.ngrok-free.app/add_to_queue?song_name=
+https://fe6e-79-37-52-25.ngrok-free.app/add_to_queue?song_name=
