@@ -1,1 +1,1 @@
-https://117b-95-238-149-29.ngrok-free.app/add_to_queue?song_name=
+https://d7a7-95-238-149-29.ngrok-free.app/add_to_queue?song_name=
