@@ -1,1 +1,1 @@
-https://3c84-87-6-173-251.ngrok-free.app/add_to_queue?song_name=
+https://8c18-213-45-206-43.ngrok-free.app/add_to_queue?song_name=
